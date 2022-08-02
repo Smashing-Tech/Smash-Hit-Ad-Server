@@ -1,0 +1,3 @@
+<ui texture="user://ads.png" selected="user://ads.png">
+	<rect coords="0 0 225 300" cmd="game.url https://smashingtech.fandom.com/wiki/Ad_Server"/>
+</ui>
